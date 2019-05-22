@@ -2,7 +2,7 @@
 
 var JSONController = function($scope){
     let student = {
-    firstName: "Naveen",
+    firstName: "Gangadhar",
     LastName:"Adusumalli",
     Email : "S533705@nwmissouri.edu",
     message:"hello world"
